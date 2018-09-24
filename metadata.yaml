@@ -1,0 +1,26 @@
+_repo: Presidential-Problems_56060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cleveland, Grover
+    aliases:
+    - United States President (1885-1889)
+    - Cleveland, Stephen Grover
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '1654'
+    url: http://www.gutenberg.org/2009/agents/1654
+    wikipedia: http://en.wikipedia.org/wiki/Grover_Cleveland
+description: ''
+gutenberg_issued: '2017-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Presidential Problems
+url: http://www.gutenberg.org/ebooks/56060
